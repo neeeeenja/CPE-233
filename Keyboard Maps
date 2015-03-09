@@ -1,0 +1,8 @@
+These are the maps for a keyboard for the Nexys2 used for Minesweeper.
+W (UP) - 0x1D
+A (LEFT) - 0x1C
+S (DOWN) - 0x1B
+D (RIGHT) - 0x23
+
+Space (Click) - 0x29
+Enter (Place Mine) - 0x5A
